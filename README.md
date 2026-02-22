@@ -41,4 +41,3 @@ Installation
 
   This project is licensed under the MIT License. 
 
-   7. Com
